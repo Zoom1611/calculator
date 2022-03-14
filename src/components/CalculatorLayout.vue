@@ -1,4 +1,4 @@
-<template>
+<template> 
   <div class="center-items">
     <div class="calculator col-lg-4">
       <div class="row col-lg-12 result">{{ printSelectedNumber || 0 }}</div>

@@ -1,4 +1,4 @@
-# weather-app
+# Calculator
 
 ## Project setup
 
@@ -23,3 +23,7 @@ npm run build
 ```
 https://zoom-calculator.netlify.app/
 ```
+
+### Description
+
+Application is working with simple math operations (plus, minus, times and divide). Also, calculator takes in consideration times and divided, so it performs those operations first and then plus and minus.
